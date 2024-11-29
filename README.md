@@ -11,7 +11,7 @@ Draws bounding boxes around faces and displays detected emotions with confidence
 
 # Installation
 1. Clone the Repository
-git clone https://github.com/your-repo-name/expression-detection.git
+git clone https://github.com/nehaatri1997/expression-detetction/blob/main/Expression_detection.py
 cd expression-detection
 2. Install Required Libraries
 Install the necessary dependencies:
